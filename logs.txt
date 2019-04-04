@@ -1,0 +1,5 @@
+commit d3c662aa7dc95fd6a90214597e6fa03fc9c83e81 (HEAD -> logs, origin/master, origin/bugFix2, master, bugFix2)
+Author: Gabriela Naumovska <gabrielanaumovska02@gmail.com>
+Date:   Thu Apr 4 09:47:38 2019 +0200
+
+    Initial commit
